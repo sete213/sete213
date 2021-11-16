@@ -1,0 +1,51 @@
+COMANDOS DOCKER (DOCKER HUB - DOCKER DESKTOP)
+_______________
+
+docker login (Docker hub)
+
+docker push luise213/docker101tutorial:tagname
+
+Vim Dockerfile (Crear imagen docker)
+
+0 Docker build -t nombre_imagen (Construir Contenedores)
+
+1 Docker pull - Bajar imagen (Ej: Docker pull ubuntu - latest)
+Docker run ubuntu
+
+2 Docker images - Ver imagenes (Docker Images [ head)
+
+3 Docker ps (Muestra contenedores corriendo)
+
+ContainedID-Image-Command-Created-Status-Ports-Names
+
+4 Docker ps - a (Todos los contenedores que han corrido en el tiempo)
+
+5 Docker start [Id-container] (Arrancar Contenedor)
+
+6 Docker logs [Id-container]  (Arranca logs del contenedor)
+
+7 Docker exec (Ejecuta un comando dentro del contenedor=
+Ej: docker exec -it id/container sh
+
+8 Docker stop (Detener/Matar el contenedor)
+
+9 Docker run id/container o name (Corre/Crea un contenedor a partir de una imagen)
+
+10 docker tag (Versiones) (Dar nuevos tags a una imagen para docker hub)
+
+
+_____________
+
+11 vim docker-compose.yaml 
+11.1 docker-compose up -d
+11.2 docker-compose down
+12 multicontenedores 
+
+red de dockers, 2 contenedores en misma red uno con sql
+
+docker network create nombre
+
+
+
+
+

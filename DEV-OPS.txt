@@ -1,0 +1,129 @@
+pag 152 citrix /  powershell libro
+chrome
+
+¿En qué soy buena? y ¿Qué ofrezco?/ ¿Por qué yo?  
+¡A por ello!
+
+COLETILLA
+_________
+
+Buenos días, ().
+
+A continuación le adjunto, mi CV, ya que he observado que gestiona muchas ofertas en TI en su compañía, por si le pudiera encajar en sus proyectos;
+actualmente estoy buscando empleo me gustaría buscar un puesto de trabajo acorde con mi experiencia ya sea en remoto/hibrido o en la zona de Madrid Centro/Sur 
+ya que es donde resido actualmente.
+
+Comentarle que mi experiencia es en OnPremise con todo tipo de tecnologías como podrá observar en mi CV
+y que actualmente estoy formándome en tecnologías cloud con un master tele-presencial en la siguiente formadora:
+
+https://cloudftic.com/masters/masters-tic/
+
+Muchas gracias de antemano, y perdone por las molestias.
+
+Un saludo.
+
+REVISADO
+___________
+
+X BITNAMI
+X TRELLO
+X JIRA
+X CONFLUENCE
+X BITBUCKET
+X SLACK
+X VEEAM
+X VAGRANT
+X IISS
+X CERTIFICADOS
+X CENTREON-MONITORIZACION (PRTG)
+X GRAFANA
+X ZABBIX
+
+
+EN ESTUDIO
+__________
+
+AWS - CLOUDFORMACION (revisar AWS ENTRENAMIENTOS)
+INGLES - 8BELTS - 1688€
+OPENSHIFT
+
+NAGIOS
+
+TEAM
+ZOOM
+
+MAC/OS
+UNIX
+
+CISCO
+
+WDS-WSUS - SCOM  SCCM X - MECM X - (MICROSOFT ENDPOINT CONFIGURATION MANAGER)
+POWERSHELL
+ANSIBLE
+JENKINS
+CITRIX AVANZADO
+VMWARE AVANZADO
+
+_________________________
+
+
+
+NAGIOS
+REMEDY
+SERVICENOW
+APACHE
+NGINX
+
+GIT
+DOCKER
+KUBERNETES
+NODE
+ANGULAR
+OPENSHIFT
+TERRAFORM
+NUTANIX
+Cloud OVH
+AHV
+COMVAULT
+
+METODOLOGIAS: 
+SCRUM
+KANBAN
+AGILE
+
+Scripting, PowerShell y procesos batch
+SQL SERVER
+TEAMS
+Windows Virtual Desktop
+POWERSHELL
+Microsoft Defender ATP
+
+DWH / ETL . . :           INFORMATICA, PL-SQL
+FrontEnd. . . . :         HTML5, HTML, CSS3,APPVERSE, QWT, JAVA SCRIPT , REACT
+BackEnd. . . . : 	  Indispensable APIs, Spring MVC, API, Maven, GIT, JIRA,
+. . . . . . . . . . . . : Docker, Kubernetes, Openshift, JUnit, Nexus, SonarQ,
+. . . . . . . . . . . . : Spring Data, Swagger, Agile
+JAVA. . . . . . . : 	  J2EE, J2SE,SCRIPT,(SHELL,PYTHON,PERL)
+. . . . . . . . . . . . : MICROSERVICIOS
+. . . . . . . . . . . . : (SVN,GIT) (API Rest,RAML,Springboot,)
+. . . . . . . . . . . . : (JIRA,REMEDY,GITLAB)
+HOST . . . . . . : 	  COBOL, CICS,, DB2
+Microsoft . . . : .	  NET, C#, VISUAL BASIC ANGULAR , SQL SERVER
+Mobility. . . . . :  	  IOS, ANDROID
+Other . . . . . .	  C/C++,VISUAL BASIC
+Testing . . . . . : 	  QA, SCRUM,AUTOMATION, MANUAL...
+DBA . . . . . . . : 	  LINUX,DOCKER,KUBERNETES,JENKINS,ANSIBLE
+. . . . . . . . . . . .:  (MAVEN,GRADLE)(JUNIT,KARMA,JASMINE)
+. . . . . . . . . . . . : (PYTHON,JAVA,GROOVY)
+. . . . . . . . . . . . : (ADMINISTRACION DE REDES)
+DATABASE . . . : 	  SQL Server, ETLs,DTSX, VISUAL BASIC , . NET
+
+
+
+
+
+
+
+
+
+
